@@ -1,0 +1,37 @@
+header{ 
+ margin:0;
+ padding:0px
+ 
+}
+
+h1{font-family: Arial, Helvetica, sans-serif;
+
+}
+body{
+    background-color: rgb(0, 225, 255);
+}
+
+.dad{
+    background-color: blueviolet;
+}
+
+.mybuttons:hover{background-color: rgb(255, 0, 98);
+
+}
+#myLabel{
+    font-size: 200px;
+}
+#mysubmit:hover{background-color: rgb(17, 255, 0);
+
+}
+.buttonz:hover{background-color: rgba(222, 35, 35, 0.929);
+    
+
+}
+.buttonz{
+    background-color:lightskyblue;
+}
+#mycount{
+    font-size:  50px;
+}
+#hr{border-style: solid;}
